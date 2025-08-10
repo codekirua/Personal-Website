@@ -27,3 +27,4 @@ You may view and learn from the code, but you may not:
     Replicate the visual design, UI, branding, or assets.
 
 The full terms are available in LICENSE.txt.
+Deployed via GH Pages
