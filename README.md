@@ -1,31 +1,63 @@
-# Personal-Website
-🌐 About This Website
+# Terminal Portfolio
 
-This is my personal portfolio website, built to showcase who I am, the projects I’ve created, and my coding abilities.
-It serves as a central hub where visitors can:
+An interactive terminal-style portfolio built with React and Vite, showcasing skills, projects, and experience in a unique command-line interface.
 
-    Explore my professional and personal projects.
+## 🚀 Live Demo
 
-    Learn about my skills, experience, and background.
+Visit the live portfolio at: [https://personal-website-codekiruas-projects.vercel.app/](https://personal-website-codekiruas-projects.vercel.app/)
 
-    See real examples of my work and technical capabilities in action.
+## ✨ Features
 
-The site is fully custom-built, reflecting my style, attention to detail, and technical craftsmanship. Every section — from layout to animations — was designed to communicate both creativity and clean coding practices.
-📜 License & Usage Notice
+- **Interactive Terminal Interface**: Navigate through portfolio content using terminal commands  
+- **Theme Toggle**: Switch between dark and light modes with smooth transitions  
+- **Responsive Design**: Works seamlessly across desktop and mobile devices  
+- **Command System**: Type commands like `help`, `about`, `projects`, `skills`, `experience`, `contact`, and `socials`  
+- **Smooth Animations**: Beautiful gradient backgrounds with subtle pulse animations  
+- **Professional Presentation**: Clean, modern design with attention to detail  
 
-Copyright © Keto K. (codekirua/alsokirua) 2025
+## 🎯 Available Commands
 
-This repository is not open source.
-You may view and learn from the code, but you may not:
+Once the terminal loads, try these commands:
 
-    Copy it verbatim or reuse substantial portions.
+- `help` - List all available commands  
+- `about` - Learn more about the developer  
+- `projects` - View featured projects  
+- `skills` - Display technical skills  
+- `experience` - Show work experience  
+- `contact` - Get contact information  
+- `socials` - Links to GitHub and LinkedIn  
+- `theme` - Toggle between light and dark mode  
+- `clear` - Clear the terminal screen  
 
-    Modify and redistribute it.
+## 🔧 Configuration Files
 
-    Use it or its design/layout for any commercial purpose.
+- **vite.config.ts**: Vite configuration  
+- **tailwind.config.js**: Tailwind CSS configuration  
 
-    Replicate the visual design, UI, branding, or assets.
+## 🌐 Browser Support
 
-The full terms are available in LICENSE.txt.
+- Chrome (latest)  
+- Firefox (latest)  
+- Safari (latest)  
+- Edge (latest)
+- Zen Browser (latest)  
 
-https://personal-website-codekiruas-projects.vercel.app/
+---
+
+## 📜 License & Usage Terms
+
+Copyright © Keto K. (codekirua/alsokirua) 2025  
+
+This repository is **not** open source.  
+You may view and learn from the code, but you may **not**:
+
+- Copy it verbatim or reuse substantial portions.  
+- Modify and redistribute it.  
+- Use it or its design/layout for any commercial purpose.  
+- Replicate the visual design, UI, branding, or assets.  
+
+The full terms are available in [LICENSE.txt](LICENSE.txt).  
+
+---
+
+**Made with ❤️ by Keto K. using React, TypeScript, and Tailwind CSS**
