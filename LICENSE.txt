@@ -1,0 +1,29 @@
+Copyright © Keto K. (codekirua/alsokirua) 2025
+
+License for Viewing and Inspiration Only — No Copying, No Cloning, No Commercial Use
+
+This repository is provided for educational and inspirational purposes only.
+
+You are allowed to:
+
+    Read and study the code.
+
+    Use ideas or concepts from it to write your own original code from scratch.
+
+You are not allowed to:
+
+    Copy this code verbatim, in whole or in part.
+
+    Modify and redistribute this code.
+
+    Use this code or substantial portions of it in your own projects, products, or services.
+
+    Use this code, design, or layout for any commercial purpose.
+
+    Replicate the visual design, user interface, branding, or overall look and feel of this website without permission.
+
+    Use any logos, images, media, or other proprietary assets without permission.
+
+This license applies to all code, designs, text, graphics, images, and other content in this repository.
+
+The software and associated content are provided “as is,” without warranty of any kind.
