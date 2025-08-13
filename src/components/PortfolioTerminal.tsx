@@ -12,9 +12,15 @@ const SITE = {
   projects: [
     {
       name: "Portfolio Terminal",
-      link: "https://github.com/codekirua",
+      link: "https://github.com/codekirua/Personal-Website",
       description: "Interactive terminal-style portfolio.",
-      tech: ["React", "Tailwind"],
+      tech: ["Front-End Development", "React", "Tailwind", "JavaScript"],
+    },
+    {
+      name: "Study App",
+      link: "https://github.com/codekirua/Study-App",
+      description: "A comprehensive study application for managing notes and learning materials.",
+      tech: ["Front-End Development", "Back-End Development", "JavaScript", "React", "Next.js", "Vercel"],
     }
   ],
   skills: [
