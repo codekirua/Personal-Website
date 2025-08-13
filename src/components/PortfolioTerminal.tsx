@@ -91,10 +91,11 @@ export default function PortfolioTerminal() {
       case "about":
         output = (
           <>
-            Hi, I'm <span className="font-medium">Keto Khamkhounmavong</span> — a Computer Science student at Mount Royal University in Calgary, AB.
-            I build clean, pragmatic software and explore the possibilities of AI and Machine Learning. Outside of coding, you'll find me with a coffee in hand, discovering great food, or under the hood of a project car. Whether it's engineering software or chasing the precision of Formula 1, I'm driven by the same goal: creating systems that perform beautifully.
+            Hi, I'm <span className="font-medium">Keto Khamkhounmavong</span> — a Computer Science student at Mount Royal University in Calgary, AB. I build clean, pragmatic software and explore the frontiers of AI and Machine Learning, but my love for coding runs deeper than just cutting-edge tech. I enjoy the craft of turning abstract ideas into something tangible — solving puzzles, architecting systems, and creating tools that make life smoother.
             <br /><br />
-            Want to connect? Just type <span className="bg-white/20 px-1 rounded text-sm">"socials"</span> or <span className="bg-white/20 px-1 rounded text-sm"> "contact"</span> and I'll point you in the right direction.
+            Coffee fuels that process for me — it's not just caffeine, it's the quiet ritual that sharpens my focus and kicks off problem-solving marathons. Formula 1 inspires me for the same reason I love engineering: it's the perfect blend of speed, precision, and relentless iteration. Away from the keyboard, you'll find me hunting down great food in Calgary or under the hood of a project car, applying the same principle I bring to code: refine every detail until it performs beautifully.
+            <br /><br />
+            Want to connect? Just type <span className="bg-white/20 px-1 rounded text-sm">"socials"</span> or <span className="bg-white/20 px-1 rounded text-sm">\"contact"</span> and I'll point you in the right direction.
           </>
         );
         break;
@@ -193,7 +194,7 @@ export default function PortfolioTerminal() {
       <main className="relative mx-auto max-w-3xl px-4 py-10 transition-colors duration-1000 ease-[cubic-bezier(.22,.61,.36,1)]">
         <div className="mb-6 flex items-center justify-between">
           <div>
-            <h1 className="text-2xl font-semibold tracking-tight">&lt;{SITE.name} /&gt;</h1>
+            <h1 className="text-2xl font-semibold tracking-tight">{SITE.name}</h1>
             <p className="text-white/80">{SITE.title}</p>
           </div>
           <button 
